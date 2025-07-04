@@ -39,8 +39,8 @@ n-api/
 ### 1️⃣ Clonar o descomprimir el proyecto
 
 ```bash
-git clone <repo-url> simple-api-docker
-cd simple-api-docker
+git clone https://github.com/hjagar/n-api.git n-api
+cd n-api
 ```
 _O descomprimir el archivo ZIP._
 
