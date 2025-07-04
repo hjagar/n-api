@@ -1,0 +1,20 @@
+{
+    "name": "hjagar/n-api",
+    "description": "API Rest minimalist",
+    "version": "1.0",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hjagar\\NApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hjagar",
+            "email": "hjagar@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
